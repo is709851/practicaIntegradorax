@@ -1,0 +1,4 @@
+#Wed Feb 19 11:35:37 CST 2020
+base.0=C\:\\Users\\eliet\\OneDrive\\Documentos\\Dispositivos moviles Code\\examen1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
